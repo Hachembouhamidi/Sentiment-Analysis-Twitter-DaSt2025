@@ -1,4 +1,3 @@
-# Sentiment-Analysis-Twitter-DaSt2025
 # Sentiment Analysis of Enhanced Twitter Data Using Custom Sentiment Scoring
 
 This repository contains the code and outputs for a sentiment analysis project using enriched Twitter data.
