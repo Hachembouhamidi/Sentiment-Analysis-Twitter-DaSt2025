@@ -1,0 +1,15 @@
+Validation Accuracy: 0.5169
+Test Accuracy: 0.5142
+
+Classification Report:
+               precision    recall  f1-score   support
+
+     Negative       0.48      0.42      0.45      1005
+      Neutral       0.53      0.77      0.63      1661
+     Positive       0.39      0.19      0.26       700
+Very Negative       0.49      0.21      0.29       310
+Very Positive       0.60      0.48      0.53       470
+
+     accuracy                           0.51      4146
+    macro avg       0.50      0.42      0.43      4146
+ weighted avg       0.50      0.51      0.49      4146
